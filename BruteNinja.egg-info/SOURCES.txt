@@ -1,0 +1,7 @@
+setup.py
+BruteNinja/BruteNinja.py
+BruteNinja.egg-info/PKG-INFO
+BruteNinja.egg-info/SOURCES.txt
+BruteNinja.egg-info/dependency_links.txt
+BruteNinja.egg-info/requires.txt
+BruteNinja.egg-info/top_level.txt

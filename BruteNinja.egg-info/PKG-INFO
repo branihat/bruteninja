@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: BruteNinja
+Version: 0.1.0
+Summary: A simple brute-force login cracker
+Home-page: BruteNinja.py
+Author: Vishnu Thandel
+Author-email: branihat@gmail.com
+Requires-Python: >=3.6
