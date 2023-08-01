@@ -26,7 +26,7 @@ banner = print(Fore.RED + '''
 		''' + Fore.WHITE + '''
 	                              +-+ Codded By VISHNU_THANDEL +-+
 	                                  +-+ Team VTECH_ACER_ZONE +-+
-	                           +-+ https://facebook.com/PakBlackArmy +-+
+	                           +-+ https://t.me/VTECHHACKERZONE+-+
 '''+ Fore.RED +'''                                    / _ \_______________/`/\+-/\`\`\`
                                   \_\(_)/_/ BRUTE_NINJA -+-    -+-+-
                                  _/`/`o`\`\_            \`\/+-\/`/`/
